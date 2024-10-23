@@ -1,7 +1,7 @@
 # Ariel (Arielfoever) 🔭
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Arielfoever&hide_border=true&title_color=000&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Arielfoever&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Arielfoever&hide_border=true&title_color=000&layout=compact)
 
 ### Hi there 👋 This... It's me? Okay.
 
