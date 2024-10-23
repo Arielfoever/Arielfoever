@@ -16,8 +16,6 @@
 - 😘 Looking for a boy I like... 💕
 - Want to become more lovely and gently.
 
-
-
 💖 Let's give it a shot! Go on and catch the dream!
 
 🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
