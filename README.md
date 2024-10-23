@@ -71,3 +71,9 @@ Fingerprint = F3AB96E458C8098D8330A9FB52B66523B085EE81
 ### SSH Public Key (RSA 4096)
 
 [GitHub](https://github.com/Arielfoever.keys)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArielHeleneto/ArielHeleneto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArielHeleneto/ArielHeleneto/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArielHeleneto/ArielHeleneto/output/github-contribution-grid-snake.svg">
+</picture>
