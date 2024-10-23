@@ -7,8 +7,6 @@
 💬 a.k.a. Ariel Xiong, Jiahui Xiong. See also my ORCID record.
 > ⚡ A girl who is passionate about technologies, open-source, intelligence, convenience, etc.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielfoever&hide_border=true&title_color=000&layout=compact">
-
 - Chinese / 20 y.o. / College Girl
 - zh-CN / en-US
 - Programmer / Developer / Coder / Engineer
@@ -16,6 +14,8 @@
 - Real / Virtual Games Lover
 - 😘 Looking for a boy I like... 💕
 - Want to become more lovely and gently.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielfoever&hide_border=true&title_color=000&layout=compact">
 
 💖 Let's give it a shot! Go on and catch the dream!
 
