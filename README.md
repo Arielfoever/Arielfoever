@@ -1,13 +1,12 @@
 # Ariel (Arielfoever) 🔭
 
-### Hi there 👋 This... It's me? Okay.
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Arielfoever&hide_border=true&title_color=000&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Arielfoever&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&count_private=true)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Arielfoever&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&count_private=true">
+### Hi there 👋 This... It's me? Okay.
 
 💬 a.k.a. Ariel Xiong, Jiahui Xiong. See also my ORCID record.
 > ⚡ A girl who is passionate about technologies, open-source, intelligence, convenience, etc.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arielfoever&hide_border=true&title_color=000&layout=compact">
 
 - Chinese / 20 y.o. / College Girl
 - zh-CN / en-US
