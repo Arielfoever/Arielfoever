@@ -8,12 +8,12 @@
 💬 a.k.a. Ariel Xiong, Jiahui Xiong. See also my ORCID record.
 > ⚡ A girl who is passionate about technologies, open-source, intelligence, convenience, etc.
 
-- Chinese / 22 y.o. / College Girl
+- Chinese / 21 y.o. / College Girl
 - zh-CN / en-US
 - Programmer / Developer / Coder / Engineer
 - Amateur radio operator with Callsign [BG5CQH](https://www.qrz.com/db/BG5CQH)
 - Real / Virtual Games Lover
-- ~~😘 Looking for a boy I like... 💕~~ My mother taught me that all men are generally black. But my colleague told me that's wrong; all men are a variety of shades of black.
+- ~~😘 Looking for a boy I like... 💕~~ My mother told me all men are black-hearted. However, my colleague said that was wrong, because different men have different shades of black hearts.
 - Want to become more lovely and gently.
 
 💖 Let's give it a shot! Go on and catch the dream!
