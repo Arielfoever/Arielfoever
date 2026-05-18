@@ -5,7 +5,7 @@
 
 ### Hi there 👋 This... It's me? Okay.
 
-💬 a.k.a. Ariel Xiong, Jiahui Xiong. See also my ORCID record.
+💬 See my ORCID record for names.
 > ⚡ A girl who is passionate about technologies, open-source, intelligence, convenience, etc.
 
 - Chinese / 21 y.o. / College Girl
